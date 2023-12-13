@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Nov 2022 21:39:23 at https://demo.adminmart.com/minimalism-lite-master/src/html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.adminmart.com/minimalism-lite-master/src/html/index.html -O1 "C:\Users\Abdelaziz\Desktop\TWIN\kaddem2\kad" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:39:25	Error: 	"Internal Server Error" (500) after 2 retries at link https://demo.adminmart.com/robots.txt (from primary/primary)
+21:40:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.min.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+21:40:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.init-menusidebar.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+21:40:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.min.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+21:40:44	Warning: 	Retry after error 500 () at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.init-menusidebar.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+21:40:45	Error: 	"Internal Server Error" (500) after 2 retries at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.min.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+21:40:45	Error: 	"" (500) after 2 retries at link https://demo.adminmart.com/minimalism-lite-master/src/dist/js/app.init-menusidebar.js (from https://demo.adminmart.com/minimalism-lite-master/src/html/form-inputs.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 179 links scanned, 172 files written (13121080 bytes overall) [11205864 bytes received at 136656 bytes/sec], 2365074 bytes transferred using HTTP compression in 35 files, ratio 16%, 11.0 requests per connection
+(3 errors, 4 warnings, 0 messages)
